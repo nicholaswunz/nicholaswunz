@@ -1,4 +1,5 @@
-## About me
+<img src="https://github.com/nicholaswunz/nicholaswunz/blob/main/Images/Banner.png"/>
+
 I'm an ecological physiologist from <img src="https://www.flaticon.com/svg/static/icons/svg/330/330301.svg" width="13"/> **Aotearoa, New Zealand**, currently living in <img src="https://www.flaticon.com/svg/static/icons/svg/330/330188.svg" width="13"/> **Sydney, Australia**.
 
 I am interested in the diversity of form and function from an ecological and evolutionary framework. Specifically, I am interested in how changing environments constrain the physiology and life history of organisms while understanding the mechanisms for how they cope with environmental stressors.
