@@ -1,16 +1,25 @@
-## Hi there 👋
-
-Welcome to my page!
-
+## About me
 I'm Nicholas, an ecological physiologist from <img src="https://www.flaticon.com/svg/static/icons/svg/330/330301.svg" width="13"/> **Aotearoa, New Zealand**, currently living in <img src="https://www.flaticon.com/svg/static/icons/svg/330/330188.svg" width="13"/> **Sydney, Australia**.
 
 I am an early-career researcher with an interest in the diversity of form and function from an ecological and evolutionary framework. Specifically, I am interested in how changing environments constrain the physiology and life history of organisms, and understanding the mechanisms for how animals cope and adapt to environmental stressors.
 
-My research primarily utilises vertebrate ectotherms like <img src="https://www.flaticon.com/svg/static/icons/svg/2219/2219706.svg" width="14"/> reptiles, <img src="https://www.flaticon.com/svg/static/icons/svg/1864/1864502.svg" width="14"/> amphibians, and <img src="https://www.flaticon.com/svg/static/icons/svg/1134/1134431.svg" width="14"/> fish as model systems, and I approach my research from an integrative viewpoint, from cellular to whole-organism level responses. I am also experienced with digital illustrations and designs, where I incorporate them to communicate my research to both the scientific and public community. See my [portforlio](https://wunicholas.wixsite.com/home/portfolio) for more examples of my work.
+My research primarily utilises vertebrate ectotherms like <img src="https://www.flaticon.com/svg/static/icons/svg/2219/2219706.svg" width="14"/> reptiles, <img src="https://www.flaticon.com/svg/static/icons/svg/1864/1864502.svg" width="14"/> amphibians, and <img src="https://www.flaticon.com/svg/static/icons/svg/1134/1134431.svg" width="14"/> fish as model systems, and I approach my research from an integrative viewpoint, from cellular to whole-organism level responses. I am also experienced with digital illustrations and designs, where I incorporate them to communicate my research to both the scientific and public community. See my [portfolio](https://wunicholas.wixsite.com/home/portfolio) for more examples of my work.
 
 <img src="https://static.wixstatic.com/media/11c012_a7149cb480094ed09dc5ded495571e41~mv2.png/v1/fill/w_1038,h_962,al_c,q_95,usm_0.66_1.00_0.01/11c012_a7149cb480094ed09dc5ded495571e41~mv2.webp" width="250"/><img src="https://static.wixstatic.com/media/11c012_c2ff2f42b7004af897da8b8d3fef7466~mv2.png/v1/fill/w_1038,h_658,al_c,q_95,usm_0.66_1.00_0.01/11c012_c2ff2f42b7004af897da8b8d3fef7466~mv2.webp" width="250"/><img src="https://static.wixstatic.com/media/11c012_6b82a8aaea924f898957792e03c7bfa2~mv2_d_4985_3070_s_4_2.jpg/v1/fill/w_1038,h_639,al_c,q_90,usm_0.66_1.00_0.01/11c012_6b82a8aaea924f898957792e03c7bfa2~mv2_d_4985_3070_s_4_2.webp" width="250"/>
 
 My repositories contain code and data needed to reproduce the published study. Enjoy!
+
+### Professional Appointments
+- The University of Sydney, Australia - **Postdoctorial Research Associate** (2019–current)
+- The University of Queensland, Australia - **Demonstrator/marker** (2015–2019)
+- The University of Queensland, Australia - **Research assistant** (2013–2014)
+- The University of Waikato, New Zealand - **Research assistant** (2011–2012)
+- National Institute of Water and Atmospheric Research (NIWA), New Zealand - **Lab technician** (2010–2011)
+
+### Academic Qualifications
+- The University of Queensland - **PhD (Zoology) in Ecological Physiology** (2014-2019)
+- The University of Queensland - **BSc (Honours) 1st class in Zoology** (2013)
+- The University of Waikato, New Zealand - **BSc (Technology) in Biological Sciences** (2011–2012)
 
 ## Where to find me
 <p><a href="https://github.com/nicholaswunz" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
