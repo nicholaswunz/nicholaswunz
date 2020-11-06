@@ -21,10 +21,6 @@ My repositories contain code and data needed to reproduce the published study. E
 - 2013 - **BSc (Hons)** 1st class in Zoology (The University of Queensland, Australia)
 - 2012 - **BSc (Tech)** in Biological Sciences (The University of Waikato, New Zealand)
 
-- The University of Queensland - **PhD** in Ecological Physiology (2014-2019)
-- The University of Queensland - **BSc (Hons)** 1st class in Zoology (2013)
-- The University of Waikato, New Zealand - **BSc (Tech)** in Biological Sciences (2011–2012)
-
 ## Where to find me
 <p><a href="https://github.com/nicholaswunz" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://twitter.com/nicholaswunz" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
