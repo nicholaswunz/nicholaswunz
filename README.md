@@ -10,11 +10,11 @@ My research primarily utilises vertebrate ectotherms like <img src="https://www.
 My repositories contain code and data needed to reproduce the published study. Enjoy!
 
 ### Professional Appointments
-- 2019–current - **Postdoctorial Research Associate** (The University of Sydney, Australia)
-- 2015–2019 - **Demonstrator/marker** (The University of Queensland, Australia)
+- 2019–current - **Postdoctorial Research Associate** ([The University of Sydney](https://www.sydney.edu.au/), Australia)
+- 2015–2019 - **Demonstrator/marker** ([The University of Queensland](https://www.uq.edu.au/), Australia)
 - 2013–2014 - **Research assistant** (The University of Queensland, Australia)
-- 2011–2012 - **Research assistant** (The University of Waikato, New Zealand)
-- 2010–2011 - **Lab technician** (National Institute of Water and Atmospheric Research, New Zealand)
+- 2011–2012 - **Research assistant** ([The University of Waikato](https://www.waikato.ac.nz/), New Zealand)
+- 2010–2011 - **Lab technician** ([National Institute of Water and Atmospheric Research](https://niwa.co.nz/), New Zealand)
 
 ### Academic Qualifications
 - 2019 - **PhD** in Ecological Physiology (The University of Queensland, Australia)
@@ -37,19 +37,3 @@ My repositories contain code and data needed to reproduce the published study. E
 <img src="https://static.wixstatic.com/media/11c012_d8868b335d3f4cc9b972eec20a36e7ed~mv2_d_3179_4494_s_4_2.jpg/v1/crop/x_0,y_13,w_3179,h_4467/fill/w_306,h_430,al_c,q_80,usm_0.66_1.00_0.01/Wu_Frog%20poster_final.webp" height="250"/><img src="https://static.wixstatic.com/media/11c012_4de1e633bcf04a6c8eb245d40eaaee1a~mv2_d_3179_4494_s_4_2.jpg/v1/crop/x_0,y_6,w_3179,h_4482/fill/w_306,h_430,al_c,q_80,usm_0.66_1.00_0.01/11c012_4de1e633bcf04a6c8eb245d40eaaee1a~mv2_d_3179_4494_s_4_2.webp" height="250"/><img src="https://static.wixstatic.com/media/11c012_fc9e0aa110794f808c6c1458e7d51d22~mv2_d_3179_4494_s_4_2.jpg/v1/fill/w_306,h_430,al_c,q_80,usm_0.66_1.00_0.01/11c012_fc9e0aa110794f808c6c1458e7d51d22~mv2_d_3179_4494_s_4_2.webp" height="250"/><img src="https://static.wixstatic.com/media/11c012_72369dc4cb3943f290f29662e0b78918~mv2_d_3179_4494_s_4_2.jpg/v1/fill/w_304,h_430,al_c,q_80,usm_0.66_1.00_0.01/11c012_72369dc4cb3943f290f29662e0b78918~mv2_d_3179_4494_s_4_2.webp" height="250"/>
 
 
-
-
-<!--
-**nicholaswunz/nicholaswunz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
