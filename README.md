@@ -1,6 +1,6 @@
 <img src="https://github.com/nicholaswunz/nicholaswunz/blob/main/Images/Banner.png"/>
 
-I'm an ecological physiologist from <img src="https://www.flaticon.com/svg/static/icons/svg/330/330301.svg" width="13"/> **Aotearoa, New Zealand**, currently living in <img src="https://www.flaticon.com/svg/static/icons/svg/330/330188.svg" width="13"/> **Sydney, Australia**.
+I'm a <img src="https://www.flaticon.com/svg/static/icons/svg/330/330220.svg" width="13"/> **Taiwanese-born** <img src="https://www.flaticon.com/svg/static/icons/svg/330/330301.svg" width="13"/> **Kiwi**, currently living in <img src="https://www.flaticon.com/svg/static/icons/svg/330/330188.svg" width="13"/> **Sydney, Australia**.
 
 I am interested in the diversity of form and function from an ecological and evolutionary framework. Specifically, I am interested in how changing environments constrain the physiology and life history of organisms while understanding the mechanisms for how they cope with environmental stressors.
 
@@ -10,14 +10,14 @@ My research primarily utilises vertebrate ectotherms like <img src="https://www.
 
 My repositories contain code and data needed to reproduce the published study. Enjoy!
 
-### Professional Appointments
+### Appointments
 - 2019–current - **Postdoctorial Research Associate** ([The University of Sydney](https://www.sydney.edu.au/), Australia)
 - 2015–2019 - **Demonstrator/marker** ([The University of Queensland](https://www.uq.edu.au/), Australia)
 - 2013–2014 - **Research assistant** (The University of Queensland, Australia)
 - 2011–2012 - **Research assistant** ([The University of Waikato](https://www.waikato.ac.nz/), New Zealand)
 - 2010–2011 - **Lab technician** ([National Institute of Water and Atmospheric Research](https://niwa.co.nz/), New Zealand)
 
-### Academic Qualifications
+### Qualifications
 - 2019 - **PhD** in Ecological Physiology (The University of Queensland, Australia)
 - 2013 - **BSc (Hons)** 1st class in Zoology (The University of Queensland, Australia)
 - 2012 - **BSc (Tech)** in Biological Sciences (The University of Waikato, New Zealand)
