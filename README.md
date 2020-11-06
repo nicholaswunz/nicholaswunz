@@ -34,8 +34,9 @@ My repositories contain code and data needed to reproduce the published study. E
 - Society for Experimental Biology ([SEB](https://www.sebiology.org/))
 
 ## Where to find me
-<p><a href="https://github.com/nicholaswunz" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://twitter.com/nicholaswunz" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<p><a href="https://wunicholas.wixsite.com/home" target="_blank"><img alt="" src="https://img.shields.io/badge/Website-2E9C16?&style=for-the-badge&logo=Microsoft-Academic&logoColor=white" /></a> 
+  <a href="https://github.com/nicholaswunz" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-20252D?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://twitter.com/nicholaswunz" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://scholar.google.com.au/citations?user=cXDRggIAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white&style=for-the-badge" /></a>
 </p>
 
