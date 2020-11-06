@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<p>Welcome to my page! </br> 
+I'm Nicholas, an ecological physiologist from <img src="https://www.flaticon.com/svg/static/icons/svg/330/330301.svg" width="13"/> <b>Aoeteroa, New Zealand</b>, currently living in <img src="https://www.flaticon.com/svg/static/icons/svg/330/330188.svg" width="13"/> <b>Sydney, Australia</b>. </p>
+
+<h3>Where to find me</h3>
+<p><a href="https://github.com/nicholaswunz" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://twitter.com/nicholaswunz" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+</p>
+
 <!--
 **nicholaswunz/nicholaswunz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
