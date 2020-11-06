@@ -27,6 +27,9 @@ My repositories contain code and data needed to reproduce the published study. E
 - Australian Society of Herpetologists ([ASH](http://www.australiansocietyofherpetologists.org/))
 - Society for Experimental Biology ([SEB](https://www.sebiology.org/))
 
+### Expertise and Fields of Research
+Ecological Physiology | Comparative Physiology | Conservation Physiology | Herpetology | Biological Scaling 
+
 ## Where to find me
 <p><a href="https://github.com/nicholaswunz" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://twitter.com/nicholaswunz" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
