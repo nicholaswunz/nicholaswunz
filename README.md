@@ -2,7 +2,7 @@
 
 I'm a <img src="https://www.flaticon.com/svg/static/icons/svg/330/330220.svg" width="13"/> **Taiwanese**-born <img src="https://www.flaticon.com/svg/static/icons/svg/330/330301.svg" width="13"/> **Kiwi**, currently living in <img src="https://www.flaticon.com/svg/static/icons/svg/330/330188.svg" width="13"/> **Sydney, Australia**.
 
-I am interested in the diversity of form and function from an ecological and evolutionary framework. My curent research aims to understand how changing environments constrain the physiology and life history of organisms while understanding the mechanisms for how they cope with environmental stressors.
+I am interested in the diversity of form and function from an ecological and evolutionary framework. My current research aims to understand how changing environments constrain the physiology and life history of organisms while understanding the mechanisms for how they cope with environmental stressors.
 
 My research primarily utilises vertebrate ectotherms like <img src="https://www.flaticon.com/svg/static/icons/svg/2219/2219706.svg" width="14"/> reptiles, <img src="https://www.flaticon.com/svg/static/icons/svg/1864/1864502.svg" width="14"/> amphibians, and <img src="https://www.flaticon.com/svg/static/icons/svg/1134/1134431.svg" width="14"/> fish as model systems, and I approach my research from an integrative viewpoint, from molecular to whole-organism to ecosystem-level responses. I am also experienced with digital illustrations and designs, where I incorporate them to communicate my research to both the scientific and public community. For more examples of my work, visit my [portfolio](https://wunicholas.wixsite.com/home/portfolio).
 
