@@ -1,4 +1,4 @@
-<img src="https://github.com/nicholaswunz/nicholaswunz/blob/main/Images/Picture1.jpg"/>
+<img src="https://github.com/nicholaswunz/nicholaswunz/blob/main/Images/banner.jpg"/>
 
 I'm a <img src="https://www.flaticon.com/svg/static/icons/svg/330/330220.svg" width="13"/> **Taiwanese**-born <img src="https://www.flaticon.com/svg/static/icons/svg/330/330301.svg" width="13"/> **Kiwi**, currently living in <img src="https://www.flaticon.com/svg/static/icons/svg/330/330188.svg" width="13"/> **Sydney, Australia**.
 
