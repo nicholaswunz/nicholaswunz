@@ -1,10 +1,5 @@
 <img src="https://github.com/nicholaswunz/nicholaswunz/blob/main/Images/Banner.png"/>
 
-[![Visits Badge](https://badges.pufler.dev/visits/nicholaswunz/nicholaswunz)](https://github.com/nicholaswunz)
-[![Years Badge](https://badges.pufler.dev/years/nicholaswunz)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/nicholaswunz)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/nicholaswunz/nicholaswunz)](https://badges.pufler.dev)
-
 I'm a <img src="https://www.flaticon.com/svg/static/icons/svg/330/330220.svg" width="13"/> **Taiwanese**-born <img src="https://www.flaticon.com/svg/static/icons/svg/330/330301.svg" width="13"/> **Kiwi**, currently living in <img src="https://www.flaticon.com/svg/static/icons/svg/330/330188.svg" width="13"/> **Sydney, Australia**.
 
 I am interested in the diversity of form and function from an ecological and evolutionary framework. Specifically, I am interested in how changing environments constrain the physiology and life history of organisms while understanding the mechanisms for how they cope with environmental stressors.
@@ -44,3 +39,7 @@ My repositories contain code and data needed to reproduce the published study. E
 <img src="https://static.wixstatic.com/media/11c012_d8868b335d3f4cc9b972eec20a36e7ed~mv2_d_3179_4494_s_4_2.jpg/v1/crop/x_0,y_13,w_3179,h_4467/fill/w_306,h_430,al_c,q_80,usm_0.66_1.00_0.01/Wu_Frog%20poster_final.webp" height="250"/><img src="https://static.wixstatic.com/media/11c012_4de1e633bcf04a6c8eb245d40eaaee1a~mv2_d_3179_4494_s_4_2.jpg/v1/crop/x_0,y_6,w_3179,h_4482/fill/w_306,h_430,al_c,q_80,usm_0.66_1.00_0.01/11c012_4de1e633bcf04a6c8eb245d40eaaee1a~mv2_d_3179_4494_s_4_2.webp" height="250"/><img src="https://static.wixstatic.com/media/11c012_fc9e0aa110794f808c6c1458e7d51d22~mv2_d_3179_4494_s_4_2.jpg/v1/fill/w_306,h_430,al_c,q_80,usm_0.66_1.00_0.01/11c012_fc9e0aa110794f808c6c1458e7d51d22~mv2_d_3179_4494_s_4_2.webp" height="250"/><img src="https://static.wixstatic.com/media/11c012_72369dc4cb3943f290f29662e0b78918~mv2_d_3179_4494_s_4_2.jpg/v1/fill/w_304,h_430,al_c,q_80,usm_0.66_1.00_0.01/11c012_72369dc4cb3943f290f29662e0b78918~mv2_d_3179_4494_s_4_2.webp" height="250"/>
 
 
+[![Visits Badge](https://badges.pufler.dev/visits/nicholaswunz/nicholaswunz)](https://github.com/nicholaswunz)
+[![Years Badge](https://badges.pufler.dev/years/nicholaswunz)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/nicholaswunz)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/nicholaswunz/nicholaswunz)](https://badges.pufler.dev)
