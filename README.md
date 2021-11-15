@@ -13,7 +13,8 @@ My research primarily utilises vertebrate ectotherms like <img src="https://www.
 My repositories contain code and data needed to reproduce the published study. Enjoy!
 
 ### Appointments
-- 2019–current - **Postdoctorial Research Associate** ([The University of Sydney](https://www.sydney.edu.au/), Australia)
+- Starting 2022 - **Postdoctorial Research Fellow** ([Western Sydney University](https://www.westernsydney.edu.au/), Australia)
+- 2019–2021 - **Postdoctorial Research Associate** ([The University of Sydney](https://www.sydney.edu.au/), Australia)
 - 2015–2019 - **Demonstrator/marker** ([The University of Queensland](https://www.uq.edu.au/), Australia)
 - 2013–2014 - **Research assistant** (The University of Queensland, Australia)
 - 2011–2012 - **Research assistant** ([The University of Waikato](https://www.waikato.ac.nz/), New Zealand)
