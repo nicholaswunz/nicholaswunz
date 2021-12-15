@@ -1,6 +1,6 @@
 <img src="https://github.com/nicholaswunz/nicholaswunz/blob/main/Images/banner.jpg"/>
 
-ORCID: [0000-0002-7130-1279](https://orcid.org/0000-0002-7130-1279)
+**ORCID**: [0000-0002-7130-1279](https://orcid.org/0000-0002-7130-1279)
 
 I'm a <img src="https://cdn-icons-png.flaticon.com/512/330/330483.png" width="20"/> **Taiwanese**-born <img src="https://cdn-icons-png.flaticon.com/512/330/330564.png" width="20"/> **Kiwi**, currently living in <img src="https://cdn-icons-png.flaticon.com/512/330/330451.png" width="20"/> **Sydney, Australia**.
 
