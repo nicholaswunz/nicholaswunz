@@ -13,7 +13,7 @@ My research primarily utilises vertebrate like <img src="https://cdn-icons-png.f
 My repositories contain code and data needed to reproduce the published study. Enjoy!
 
 ### Appointments
-- Starting 2022 - **Postdoctoral Research Fellow** ([Western Sydney University](https://www.westernsydney.edu.au/), Australia)
+- 2022–current - **Postdoctoral Research Fellow** ([Western Sydney University](https://www.westernsydney.edu.au/), Australia)
 - 2019–2021 - **Postdoctoral Research Associate** ([The University of Sydney](https://www.sydney.edu.au/), Australia)
 - 2015–2019 - **Demonstrator/marker** ([The University of Queensland](https://www.uq.edu.au/), Australia)
 - 2013–2014 - **Research assistant** (The University of Queensland, Australia)
