@@ -6,8 +6,6 @@ I am interested in the diversity of form and function from an ecological and evo
 
 My research primarily utilises vertebrate like <img src="https://cdn-icons-png.flaticon.com/512/1864/1864698.png" width="20"/> reptiles, <img src="https://cdn-icons-png.flaticon.com/512/1864/1864502.png" width="20"/> amphibians,  <img src="https://cdn-icons-png.flaticon.com/512/1134/1134431.png" width="20"/> fish, and <img src="https://cdn-icons-png.flaticon.com/512/616/616454.png" width="20"/> bats as model systems, and I approach my research from an integrative viewpoint, from molecular to whole-organism to ecosystem-level responses. I am also experienced with digital illustrations and designs, where I incorporate them to communicate my research to both the scientific and public community. For more examples of my work, visit my [portfolio](https://wunicholas.wixsite.com/home/portfolio).
 
-<img src="https://static.wixstatic.com/media/11c012_a7149cb480094ed09dc5ded495571e41~mv2.png/v1/fill/w_1038,h_962,al_c,q_95,usm_0.66_1.00_0.01/11c012_a7149cb480094ed09dc5ded495571e41~mv2.webp" width="200"/><img src="https://static.wixstatic.com/media/11c012_c2ff2f42b7004af897da8b8d3fef7466~mv2.png/v1/fill/w_1038,h_658,al_c,q_95,usm_0.66_1.00_0.01/11c012_c2ff2f42b7004af897da8b8d3fef7466~mv2.webp" width="200"/><img src="https://static.wixstatic.com/media/11c012_6b82a8aaea924f898957792e03c7bfa2~mv2_d_4985_3070_s_4_2.jpg/v1/fill/w_1038,h_639,al_c,q_90,usm_0.66_1.00_0.01/11c012_6b82a8aaea924f898957792e03c7bfa2~mv2_d_4985_3070_s_4_2.webp" width="200"/>
-
 My repositories contain code and data needed to reproduce the published study. Enjoy!
 
 ### Appointments
