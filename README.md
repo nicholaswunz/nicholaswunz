@@ -11,10 +11,6 @@ My repositories contain code and data needed to reproduce the published study. E
 ### Appointments
 - 2022–current - **Postdoctoral Research Fellow** ([Western Sydney University](https://www.westernsydney.edu.au/), Australia)
 - 2019–2021 - **Postdoctoral Research Associate** ([The University of Sydney](https://www.sydney.edu.au/), Australia)
-- 2015–2019 - **Demonstrator/marker** ([The University of Queensland](https://www.uq.edu.au/), Australia)
-- 2013–2014 - **Research assistant** (The University of Queensland, Australia)
-- 2011–2012 - **Research assistant** ([The University of Waikato](https://www.waikato.ac.nz/), New Zealand)
-- 2010–2011 - **Lab technician** ([National Institute of Water and Atmospheric Research](https://niwa.co.nz/), New Zealand)
 
 ### Qualifications
 - 2019 - **PhD** in Ecological Physiology (The University of Queensland, Australia)
@@ -26,6 +22,7 @@ My repositories contain code and data needed to reproduce the published study. E
 - Australian and New Zealand Society for Comparative Physiology and Biochemistry ([ANZSCPB](http://anzscpb.curtin.edu.au/))
 - Australian Society of Herpetologists ([ASH](http://www.australiansocietyofherpetologists.org/))
 - Society for Experimental Biology ([SEB](https://www.sebiology.org/))
+- Australasian Bat Society ([ABS](https://www.ausbats.org.au/))
 
 ## Where to find me
 <p><a href="https://wunicholas.wixsite.com/home" target="_blank"><img src="https://img.shields.io/badge/My%20Website-2A7979?&style=for-the-badge&logo=Microsoft-Academic&logoColor=white" /></a> 
