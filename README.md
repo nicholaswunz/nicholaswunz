@@ -9,7 +9,7 @@ My research primarily utilises vertebrate like <img src="https://cdn-icons-png.f
 My repositories contain code and data needed to reproduce the published study. Enjoy!
 
 ### Appointments
-- 2025–current - **Lecturer** ([Murdoch University]((https://www.murdoch.edu.au/)), Australia)
+- 2025–current - **Lecturer** ([Murdoch University](https://www.murdoch.edu.au/), Australia)
 - 2022–2025 - **Postdoctoral Research Fellow** ([Western Sydney University](https://www.westernsydney.edu.au/), Australia)
 - 2019–2021 - **Postdoctoral Research Associate** ([The University of Sydney](https://www.sydney.edu.au/), Australia)
 
