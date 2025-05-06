@@ -1,7 +1,5 @@
 <img src="https://github.com/nicholaswunz/nicholaswunz/blob/main/Images/banner.jpg"/>
 
-I'm a <img src="https://cdn-icons-png.flaticon.com/512/330/330483.png" width="20"/> **Taiwanese**-born <img src="https://cdn-icons-png.flaticon.com/512/330/330564.png" width="20"/> **Kiwi**, currently living in <img src="https://cdn-icons-png.flaticon.com/512/330/330451.png" width="20"/> **Sydney, Australia**.
-
 I am interested in the diversity of form and function from an ecological and evolutionary framework. My current research aims to understand how changing environments constrain the physiology and life history of organisms while understanding the mechanisms for how they cope with environmental stressors.
 
 My research primarily utilises vertebrate like <img src="https://cdn-icons-png.flaticon.com/512/1864/1864698.png" width="20"/> reptiles, <img src="https://cdn-icons-png.flaticon.com/512/1864/1864502.png" width="20"/> amphibians,  <img src="https://cdn-icons-png.flaticon.com/512/1134/1134431.png" width="20"/> fish, and <img src="https://cdn-icons-png.flaticon.com/512/616/616454.png" width="20"/> bats as model systems, and I approach my research from an integrative viewpoint, from molecular to whole-organism to ecosystem-level responses. I am also experienced with digital illustrations and designs, where I incorporate them to communicate my research to both the scientific and public community.
